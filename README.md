@@ -1,4 +1,4 @@
-# Qiskit Hackathon Taiwan 2020
+# Quantum Hackathon Korea 2021
 
 ## Things to do before the hackathon
 
@@ -28,38 +28,5 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Schedule
-|  Tuesday (Sep 8)|  |
-| -------------- | --------------------------------- |
-| 08:30 - 12:30 | Travel to Venue |
-| 12:30 - 12:50 | Registration |
-| 12:50 - 14:00 | Lunch |
-| 14:00 - 15:00 | Opening & Keynote Speech|
-| 15:00 - 15:10 | Introduction of Qiskit Hackathon|
-| 15:10 - 15:30 | Coffee Break|
-| 15:30 - 16:10 | Team Building Activities / Pitches|
-| 16:20 - 17:00 | Introduce ideas and members of each team|
-| 17:00 - 17:30 | Hotel Check-In & Room Assignments|
-| 17:30 - 18:00 | Group Discussion|
-| 18:00 - 20:00 | Dinner & Hackathon Welcome Session|
 
-
-| Wednesday (Sep 9)|  |
-| -------------- | --------------------------------- |
-| 07:00 - 08:30 | Breakfast |
-| 08:30 - 12:30 | Hackathon Begins (Hacking Session 1) |
-| 12:30 - 13:30 | Lunch|
-| 13:30 - 17:30 | Hacking Session 2 |
-| 17:30 - 18:00 | Break |
-| 18:00 - 20:00 | Dinner|
-
-| Thursday (Sep 10) |  |
-| -------------- | --------------------------------- |
-| 07:00 - 09:00 | Breakfast |
-| 09:00 - 09:30 | Hackathon Ends, Presentations Get Finalized |
-| 09:30 - 10:55 | Team Presentations (5min + 2min Q&A) |
-| 10:55 - 11:30 | Coffee Break|
-| 11:30 - 12:00 | Awards Ceremony|
-| 12:00 - 13:00 | Lunch|
-| 13:00 - 14:00 | Free Time |
-| 14:10 - 14:30 | Board Motorcoaches and Depart |
-| 14:30 - 18:30 | Return Trip |
+TO come
