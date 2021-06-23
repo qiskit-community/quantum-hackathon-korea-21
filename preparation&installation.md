@@ -1,4 +1,4 @@
-# Preparation for Qiskit Hackathon Taiwan 2020
+# Preparation
 
 ## Things to install
 
