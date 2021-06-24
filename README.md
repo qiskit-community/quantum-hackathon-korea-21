@@ -5,9 +5,9 @@ Qiskit Community support this event as an official partner.
 http://qhackathon.kr/
 
 Thank you for 
-@junye for delivering wonderful seminar of "Quantum Games" at 28 June
+@HuangJunye for delivering wonderful seminar of "Quantum Games" at 28 June
 @kifumi for organizing challenge problems
-@yuri for being a judge of thie event.
+@veenaiyuri for being a judge of thie event.
 
 @wslu42 @splch @molar-volume @ManjulaGandhi @obliviateandsurrender being a mentor for the student.
 
