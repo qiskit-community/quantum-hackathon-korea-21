@@ -5,11 +5,11 @@ Qiskit Community support this event as an official partner.
 http://qhackathon.kr/
 
 Thank you for 
-@HuangJunye for delivering wonderful seminar of "Quantum Games" at 28 June
-@kifumi for organizing challenge problems
-@veenaiyuri for being a judge of thie event.
+[Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar of "Quantum Games" at 28 June
+[Kifumi Numata](https://github.com/kifumi) for organizing challenge problems
+[Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
 
-@wslu42 @splch @molar-volume @ManjulaGandhi @obliviateandsurrender being a mentor for the student.
+[Wen-Sen (Vincent) Lu](@wslu42) [Spencer Churchill](@splch) [Miroslav Tomášik](@molar-volume) [Manjula Gandhi](https://github.com/ManjulaGandhi) [Utkarsh Azad](@obliviateandsurrender) being a mentor for the student.
 
 
 ## Things to do before the hackathon
