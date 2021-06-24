@@ -5,7 +5,7 @@ Qiskit Community support this event as an official partner.
 http://qhackathon.kr/
 
 Thank you for 
-[Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar of "Quantum Games" at 28 June
+[Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar on "Quantum Games" at 28 June
 
 [Kifumi Numata](https://github.com/kifumi) for organizing challenge problems
 
