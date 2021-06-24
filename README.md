@@ -6,7 +6,9 @@ http://qhackathon.kr/
 
 Thank you for 
 [Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar of "Quantum Games" at 28 June
+
 [Kifumi Numata](https://github.com/kifumi) for organizing challenge problems
+
 [Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
 
 [Wen-Sen (Vincent) Lu](https://github.com/wslu42) [Spencer Churchill](https://github.com/splch) [Miroslav Tomášik](https://github.com/molar-volume) [Manjula Gandhi](https://github.com/ManjulaGandhi) [Utkarsh Azad](https://github.com/obliviateandsurrender) being a mentor for the student.
