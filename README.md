@@ -29,4 +29,22 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Schedule
 
-TO come
+### Day 1 Hackathon
+| Wed (June 30) |  |
+| -------------- | --------------------------------- |
+| 00:00 -  | Hackathon start |
+ 
+ 
+### Day 2 Hackathon
+| Thu (July 1) |  |
+| -------------- | --------------------------------- |
+|- 18:00 | Hackathon end  |
+| 18:00 -  | Judging start |
+
+### Day 3 Awards
+| Fri (July 2) |  |
+| -------------- | --------------------------------- |
+| - 10:00 | Judging end
+| 17:30 - 18:00 | Awards Ceremony|
+
+
