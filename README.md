@@ -1,4 +1,16 @@
 # Quantum Hackathon Korea 2021
+## About this event
+This hackathon is hosted by the ministry of science and ICT of Korean government and organized by Qcenter, SKKU.
+Qiskit Community support this event as an official partner. 
+http://qhackathon.kr/
+
+Thank you for 
+@junye for delivering wonderful seminar of "Quantum Games" at 28 June
+@kifumi for organizing challenge problems
+@yuri for being a judge of thie event.
+
+@wslu42 @splch @molar-volume @ManjulaGandhi @obliviateandsurrender being a mentor for the student.
+
 
 ## Things to do before the hackathon
 
