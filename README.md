@@ -7,7 +7,7 @@ http://qhackathon.kr/
 Thank you for 
 [Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar on "Quantum Games" at 28 June
 
-[Kifumi Numata](https://github.com/kifumi) for organizing challenge problems
+[Toshinari Itoko](https://github.com/itoko) and [Kifumi Numata](https://github.com/kifumi) for suggeting challenge problems.
 
 [Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
 
