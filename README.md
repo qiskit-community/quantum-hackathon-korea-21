@@ -2,7 +2,7 @@
 ## About this event
 This hackathon is hosted by the ministry of science and ICT of Korean government and organized by Qcenter, SKKU.
 Qiskit Community support this event as an official partner. 
-http://qhackathon.kr/
+[http://qhackathon.kr/](https://qhackathon.kr/2021/)
 
 Thank you for 
 [Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar on "Quantum Games" at 28 June
